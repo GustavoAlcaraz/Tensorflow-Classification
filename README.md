@@ -1,2 +1,2 @@
-# Tensorflow-logistic-regression
+# Tensorflow-Class and multiclass
 Logistic regression model using tensorflow
